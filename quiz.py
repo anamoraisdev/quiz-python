@@ -83,37 +83,37 @@ if resposta1 == "A":
     score = score + 1 
 else:
      print("Incorreto!")
-print ("Qual o nome do personagem principal do filme Poderoso Chefão 1? \n (A)Michael Corleone \n (B) Vitor Corleone \n(C) Sonny Corleone \n (D) Fredo Corleone ")
+print ("Qual foi o primeiro filme de animação a ser indicado ao Oscar de Melhor Filme?\n(A)A pequena sereia\n(B)A viagem de Chihiro\n(C)Bambi\n(D)A bela e a Fera")
 resposta1 = input ("resposta:")
 
-if resposta1 == "B":
+if resposta1 == "D":
     print ("Correto!")
     score = score + 1 
 else:
      print("Incorreto!")
 
-print ("Qual o nome do personagem principal do filme Poderoso Chefão 1? \n (A)Michael Corleone \n (B) Vitor Corleone \n(C) Sonny Corleone \n (D) Fredo Corleone ")
+print ("Qual música Jenna Rink dançou em De Repente 30?\n(A)Ice ice baby\n(B)Jessie's Girl\n(C)Thiller\n(D)I wanna Dance with Somebody")
 resposta1 = input ("resposta:")
 
-if resposta1 == "B":
+if resposta1 == "C":
     print ("Correto!")
     score = score + 1 
 else:
      print("Incorreto!")
 
-print ("Qual o nome do personagem principal do filme Poderoso Chefão 1? \n (A)Michael Corleone \n (B) Vitor Corleone \n(C) Sonny Corleone \n (D) Fredo Corleone ")
+print ("O que tinha na caixa da cena final do filme Os 7 pecados capitais?\n(A)A caixa estava vazia\n(B)Uma bomba\n(C)Dinheiro de um roubo\n(D)A cabeça de sua esposa")
 resposta1 = input ("resposta:")
 
-if resposta1 == "B":
+if resposta1 == "D":
     print ("Correto!")
     score = score + 1 
 else:
      print("Incorreto!")
 
-print ("Qual o nome do personagem principal do filme Poderoso Chefão 1? \n (A)Michael Corleone \n (B) Vitor Corleone \n(C) Sonny Corleone \n (D) Fredo Corleone ")
+print ("De qual filme é a citação: Eles me chamam de Senhor Tibbs!, de Sidney Poitier?\n(A)No calor da Noite\n(B)Adivinhe quem vem para jantar\n(C)Uma voz nas sombras\n(D)Acorrentados")
 resposta1 = input ("resposta:")
 
-if resposta1 == "B":
+if resposta1 == "A":
     print ("Correto!")
     score = score + 1 
 else:
